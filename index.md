@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to the SALF page](./SALF.html).
+[Link to the SALF page](./SALF).
 
 There should be whitespace between paragraphs.
 
